@@ -1,6 +1,7 @@
 # Developer Resources Repository
 
-![Developer Resources Repository](https://example.com/repository_image.png)
+![webstacks-ewXKiIezeTg-unsplash](https://github.com/alireza-akbarzadeh/Dev_resoureces/assets/82927248/2b92bb63-cbc6-4717-ae34-fae416e89bdd)
+
 
 Welcome to our Developer Resources Repository! This repository is a treasure trove of valuable information designed to empower developers at every stage of their journey. Whether you're just starting out or a seasoned pro, here you'll find a wealth of resources, including roadmaps for various fields, tips, tricks, and insights to enhance your productivity and proficiency.
 
@@ -13,6 +14,10 @@ We understand that navigating the vast landscape of technology can be daunting. 
 Productivity is key to success in the fast-paced world of development. Our repository is packed with practical tips and tricks to help you streamline your workflow, optimize your coding practices, and overcome common challenges. From time-saving shortcuts to best practices, we've got you covered.
 
 ## How to Use This Repository
+
+```bash
+git clone https://github.com/alireza-akbarzadeh/Dev_resoureces.git
+```
 
 ### - Exploration 🔍
 Feel free to explore the contents of this repository at your own pace. Whether you're seeking guidance on a specific topic or simply browsing for inspiration, you're sure to find something valuable here.
@@ -33,5 +38,4 @@ For more information, checkout these websites and follow:
 
 - Inspired by [JsMastery Pro](https://www.jsmastery.pro/resources)
 - [Web Dev Simplified](https://courses.webdevsimplified.com/)
-
-![Inspiration](https://example.com/inspiration_image.png)
+```
